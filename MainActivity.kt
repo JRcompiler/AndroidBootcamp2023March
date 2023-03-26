@@ -1,4 +1,4 @@
-package com.info.odev
+package com.info.odev2
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
